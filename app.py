@@ -21,18 +21,18 @@ def bot():
     msg = resp.message()
 
     if not incoming_msg:
-        msg.body("❗ Please send a news headline or content.")
+        msg.body("Please send a news headline or content.")
         return str(resp)
 
     prediction = model.predict([incoming_msg])[0]
     label = "REAL" if prediction == 1 else "FAKE"
 
-    msg.body(f"The News is '{label}' ")
+    msg.body(f"This News is '{label}' \n ")
 
     if prediction == 0:
         links = get_fact_check_links(incoming_msg)
         if links:
-            msg.body("\n Possible real news can be:\n" + "\n".join(links))
+            msg.body("\n Possible real news can be:\n" + "\n \n".join(links))
         else:
             msg.body("Couldn't find verified sources.")
     
