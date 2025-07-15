@@ -1,3 +1,5 @@
 ./myenv
 ./Fake.csv
 ./True.csv
+./query_logs.txt
+./user_logs.txt

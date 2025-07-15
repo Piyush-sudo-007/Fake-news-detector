@@ -1,0 +1,22 @@
+2025-07-15 11:34:06.855418 || +1234567890 || nasa declares earth as flat || FAKE
+2025-07-15 11:34:41.119009 || +1234567890 || nasa declares earth as round || FAKE
+2025-07-15 11:35:12.392019 || +1234567890 || nasa’s artemis program returns humans to the moon || FAKE
+2025-07-15 11:35:36.556796 || +1234567890 || south africa won world test championship 2025 || REAL
+2025-07-15 11:36:04.893285 || +1234567890 || narendra modi is india pm || FAKE
+2025-07-15 11:36:28.760292 || +1234567890 || narendra modi is india's prime minister || FAKE
+2025-07-15 11:36:49.285586 || +1234567890 || who declares covid-19 no longer a global emergency || FAKE
+2025-07-15 11:42:58.959459 || +1234567890 || as u.s. budget fight looms, republicans flip their fiscal script || REAL
+2025-07-15 11:43:22.314995 || +1234567890 || short-term government funding, disaster aid bills advance in house || REAL
+2025-07-15 11:43:44.881555 || +1234567890 || donald trump sends out embarrassing new year’s eve message || FAKE
+2025-07-15 11:44:11.366981 || +1234567890 || ivanka defends malia obama from attacks, her dad’s fans won’t stop: ‘she looks like a baboon’ || FAKE
+2025-07-15 11:44:36.889720 || +1234567890 || final republican tax bill slashes u.s. corporate rate, voting next week || REAL
+2025-07-15 11:45:09.517282 || +1234567890 || who declares covid-19 as no more global health emergency || REAL
+2025-07-15 11:45:33.661221 || +1234567890 || south africa won world test championship || REAL
+2025-07-15 11:45:42.786410 || +1234567890 || south africa won world test championship 2024 || REAL
+2025-07-15 11:45:53.686432 || +1234567890 || south africa won world test championship 2023 || REAL
+2025-07-15 11:46:05.797971 || +1234567890 || india won world test championship 2023 || REAL
+2025-07-15 11:46:11.126832 || +1234567890 || india won world test championship 2025 || REAL
+2025-07-15 11:54:58.743311 || +1234567890 || india won world test championship 2025 || REAL
+2025-07-15 13:24:31.929713 || +1234567890 || south africa won world test championship 2025 || REAL
+2025-07-15 13:24:44.650697 || +1234567890 || india won world test championship 2025 || REAL
+2025-07-15 13:25:07.159226 || +1234567890 || narendra modi id india's prime minister || REAL
